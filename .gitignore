@@ -1,1 +1,9 @@
 
+{
+  "GEMINI_API_KEY": "AIzaSyBakhUCY8iBNw0dYDBng5u6njZQYnnH00Q",
+  "SPOTIFY_CLIENT_ID": "f5ed60bc4d874283a07fd9b5eb200c1a",
+  "SPOTIFY_CLIENT_SECRET": "dad7a87364204ea481294425ade9d05e",
+  "OPENWEATHER_API_KEY": "your_openweathermap_api_key_here",
+  "EMAIL_ADDRESS": "anuragbaghel9058@gmail.com",
+  "EMAIL_PASSWORD": "Anur@g123"
+}
